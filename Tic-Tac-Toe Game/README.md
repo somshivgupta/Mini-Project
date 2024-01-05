@@ -2,10 +2,10 @@
 This project is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game allows two players to take turns, aiming to achieve a winning combination or result in a draw.
 
 ## Features
-Two-player Game: Players take turns to mark 'X' or 'O' in a grid.
-Winning Condition: Recognizes when a player achieves a winning combination.
-Draw Condition: Detects a draw when the grid is full with no winner.
-Responsive Design: Works well on various devices due to responsive styling.
+1.Two-player Game: Players take turns to mark 'X' or 'O' in a grid.
+2.Winning Condition: Recognizes when a player achieves a winning combination.
+3.Draw Condition: Detects a draw when the grid is full with no winner.
+4.Responsive Design: Works well on various devices due to responsive styling.
 
 ## Usage
 Open the game in a web browser.
